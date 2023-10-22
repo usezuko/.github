@@ -50,7 +50,7 @@ Zuko is your **offshore, safe haven** for connecting with proven like-minded pee
 
 - **Sismo**: We use Sismo's Connect Data Vault to let users generate ZK proofs from their wallet (data source), so that we can fetch their vaultId (user pseudonym), groupId (community).
 - **Tableland**: We wanted a permissionless SQL-like on-chain database. We used their Studio & Console clients, SDK, and CLI to create, store, test, and manage tables & queries. Tables hosted on Goerli Arbitrum (we're cheap) & locked.
-- **Stack**: NextJS, NodeJS, TypeScript, ExpressJS, Vercel, SQL, ReactJS, TailwindCSS.
+- **Stack**: NextJS, NodeJS, TypeScript, ExpressJS, Netlify, SQL, ReactJS, TailwindCSS.
 
 ## 🔨 Limitations / Improvements
 - **Team Constraints**: Team of 3, each with full-time jobs, dedicating weekends and nights. We had to carefully plan for MVP and sacrifice certain requirements deemed optional.
