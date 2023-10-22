@@ -3,7 +3,7 @@
 **Permissionless**, **Privacy-Focused** social dApp. Connecting anonymous users to communities using [Simso Connect](https://sismo.io/) and [Tableland](https://tableland.xyz/).
 
 <div align="center">
-<img src="https://github.com/usezuko/.github/raw/prod/assets/logo.png"/>
+<img src="https://github.com/usezuko/.github/raw/prod/assets/zuko-logo.png"/>
 </div>
 
 ## 🏁 Introduction
