@@ -3,7 +3,7 @@
 **Permissionless**, **Privacy-Focused** social dApp. Connecting anonymous users to communities using [Simso Connect](https://sismo.io/) and [Tableland](https://tableland.xyz/).
 
 <div align="center">
-<img src="../assets/logo.png"/>
+<img src="https://github.com/usezuko/.github/raw/prod/assets/logo.png"/>
 </div>
 
 ## 🏁 Introduction
@@ -39,7 +39,7 @@ Zuko is your **offshore, safe haven** for connecting with proven like-minded pee
 
 ## 🗺️ Architecture
 
-![Overview](../assets/architecture.png)
+![Overview](https://github.com/usezuko/.github/raw/prod/assets/architecture.png)
 
 ## 🌐 Software
 
