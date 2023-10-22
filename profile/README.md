@@ -19,7 +19,7 @@ Imagine a place where you can chat with fellow APE's, prove your token status, a
 
 Zuko is your **offshore, safe haven** for connecting with proven like-minded peers, from hosting your DAO discussions to an **exclusive** network of users.
 
-**Visit the Deployed Netlify Website at:** https://zuko-zk.netlify.app/
+**Visit <a href="https://zuko-zk.netlify.app/" target="_blank">Zuko</a> at the Deployed Netlify Website**
 
 ### 🪜 How it works
 
