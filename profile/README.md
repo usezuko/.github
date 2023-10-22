@@ -23,7 +23,7 @@ Zuko is your **offshore, safe haven** for connecting with proven like-minded pee
 
 ### 🪜 How it works
 
-1. Connect your wallet to Simso's data vault.
+1. Connect your wallet to Sismo's data vault.
 2. Pick your trusted community.
 3. Choose a username.
 4. Voila! It's done. Your info stays on-chain, safe from leaks.
@@ -48,8 +48,8 @@ Zuko is your **offshore, safe haven** for connecting with proven like-minded pee
 
 ## 🌐 Software
 
-- **Sismo**: We use Sismo's Connect Data Vault to let users generate ZK proofs from their wallet (data source), so that we can fetch their vaultId (user pseudonym), groupId (community).
-- **Tableland**: We wanted a permissionless SQL-like on-chain database. We used their Studio & Console clients, SDK, and CLI to create, store, test, and manage tables & queries. Tables hosted on Goerli Arbitrum (we're cheap) & locked.
+- **Sismo**: We use Sismo's Connect Data Vault to let users generate ZK proofs from their wallet (data source), so that we can fetch their vaultId (user pseudonym), and groupId (community).
+- **Tableland**: We wanted a permissionless SQL-like on-chain database. We used their Studio & Console clients, SDK, and CLI to create, store, test, and manage tables & queries. Tables are hosted on Goerli Arbitrum (we're cheap) & locked.
 - **Stack**: NextJS, NodeJS, TypeScript, ExpressJS, Netlify, SQL, ReactJS, TailwindCSS.
 
 ## 🔨 Limitations / Improvements
@@ -74,7 +74,7 @@ Zuko is your **offshore, safe haven** for connecting with proven like-minded pee
 
 ## 🔧 Contributing
 
-We welcome any feedback, improvements and amendments to these repositories 🙌 :
+We welcome any feedback, improvements, and amendments to these repositories 🙌 :
 
 - [API Server](https://github.com/usezuko/zuko-server) - A Server API connecting to the tableland on-chain DB.
 - [Frontend](https://github.com/usezuko/zuko-zk) - A NextJS frontend dApp.
