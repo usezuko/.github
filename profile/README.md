@@ -4,7 +4,7 @@
 
 <div align="center">
 <img 
-  src="https://github.com/usezuko/.github/raw/prod/assets/zuko-logo.png" 
+  src="https://github.com/usezuko/.github/raw/prod/assets/zuko-logo-coloured.png" 
   style="width:40% ; height:40%;"
 />
 </div>
